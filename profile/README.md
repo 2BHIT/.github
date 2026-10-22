@@ -74,4 +74,4 @@ Learn by doing. Build with purpose. Improve together.
 
 We are here to develop our skills, explore new ideas, and turn what we learn into real projects.
 
-<p align="center"> <strong>2BFIT · HTL Traun</strong><br> Media Technology · Code · Creativity · Collaboration </p>
+<p align="center"> <strong>2BHIT · HTL Traun</strong><br> Media Technology · Code · Creativity · Collaboration </p>
